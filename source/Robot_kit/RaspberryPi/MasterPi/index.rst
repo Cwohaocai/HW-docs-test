@@ -10,9 +10,5 @@ MasterPi
    :maxdepth: 2
 
    masterpi_4b.md
-
-.. toctree::
-   :maxdepth: 2
-
    masterpi_5.md
 

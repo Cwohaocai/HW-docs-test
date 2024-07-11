@@ -8,6 +8,6 @@ Vehicle Chassis
 
 .. toctree::
    :maxdepth: 1
-   :caption: Ackerman Chassis
 
    ackerman_chassis.md
+   s.md

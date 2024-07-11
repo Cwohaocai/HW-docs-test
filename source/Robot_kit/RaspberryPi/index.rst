@@ -7,8 +7,8 @@ Raspberry Pi
 ==================
 
 .. toctree::
-   :maxdepth: 1
-   :caption: MasterPi
+   :maxdepth: 2
+
 
    MasterPi/index
 
