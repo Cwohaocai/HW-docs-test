@@ -14,11 +14,10 @@ Welcome to hiwonder-docs's documentation!
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Accessory
 
-   123
-   321
+   Accessory/VehicleChassis/index
 
 * :ref:`genindex`
 * :ref:`modindex`
