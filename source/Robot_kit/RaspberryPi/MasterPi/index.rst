@@ -16,7 +16,3 @@ MasterPi
 
    masterpi_5.md
 
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

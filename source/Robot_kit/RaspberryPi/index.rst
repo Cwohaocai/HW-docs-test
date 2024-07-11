@@ -12,6 +12,3 @@ Raspberry Pi
 
    MasterPi/index
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

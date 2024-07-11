@@ -18,7 +18,3 @@ Welcome to hiwonder-docs's documentation!
    :caption: Accessory
 
    Accessory/VehicleChassis/index
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

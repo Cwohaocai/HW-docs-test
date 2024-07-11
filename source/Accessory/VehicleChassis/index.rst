@@ -11,7 +11,3 @@ Vehicle Chassis
    :caption: Ackerman Chassis
 
    ackerman_chassis.md
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
