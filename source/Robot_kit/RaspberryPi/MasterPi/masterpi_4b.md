@@ -1,4 +1,4 @@
-# MasterPi 4B Version
+# MasterPi RPi 4B Version
 
 images
 
@@ -7,4 +7,3 @@ images
 MasterPi 4B
 
 ### title2
-MasterPi 4B

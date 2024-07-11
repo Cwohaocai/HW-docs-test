@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-MasterPi
+RaspberryPi
 ==================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: MasterPi
 
-   MasterPi/masterpi_4b.md
-   MasterPi/masterpi_5.md
+   MasterPi/index
 
 * :ref:`genindex`
 * :ref:`modindex`

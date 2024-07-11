@@ -1,7 +1,7 @@
-# MasterPi 5 Version
+# MasterPi RPi 5 Version
 
 images
 
-1. Kit Introduction
+##  1. Kit Introduction
 
 MasterPi 5

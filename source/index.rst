@@ -10,7 +10,7 @@ Welcome to hiwonder-docs's documentation!
    :maxdepth: 2
    :caption: Robot Kit
 
-   Robot_kit/index
+   Robot_kit/RaspberryPi/index
 
 
 .. toctree::

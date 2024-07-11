@@ -7,14 +7,12 @@ MasterPi
 ==================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: MasterPi 4B Version
+   :maxdepth: 1
 
    masterpi_4b.md
 
 .. toctree::
-   :maxdepth: 2
-   :caption: MasterPi 5 Version
+   :maxdepth: 1
 
    masterpi_5.md
 
